@@ -1,0 +1,11 @@
+C:\Users\thoule\source\repos\StackTool\StackTool\bin\Debug\netcoreapp2.2\StackTool.deps.json
+C:\Users\thoule\source\repos\StackTool\StackTool\bin\Debug\netcoreapp2.2\StackTool.runtimeconfig.json
+C:\Users\thoule\source\repos\StackTool\StackTool\bin\Debug\netcoreapp2.2\StackTool.runtimeconfig.dev.json
+C:\Users\thoule\source\repos\StackTool\StackTool\bin\Debug\netcoreapp2.2\StackTool.dll
+C:\Users\thoule\source\repos\StackTool\StackTool\bin\Debug\netcoreapp2.2\StackTool.pdb
+C:\Users\thoule\source\repos\StackTool\StackTool\obj\Debug\netcoreapp2.2\StackTool.csprojAssemblyReference.cache
+C:\Users\thoule\source\repos\StackTool\StackTool\obj\Debug\netcoreapp2.2\StackTool.csproj.CoreCompileInputs.cache
+C:\Users\thoule\source\repos\StackTool\StackTool\obj\Debug\netcoreapp2.2\StackTool.AssemblyInfoInputs.cache
+C:\Users\thoule\source\repos\StackTool\StackTool\obj\Debug\netcoreapp2.2\StackTool.AssemblyInfo.cs
+C:\Users\thoule\source\repos\StackTool\StackTool\obj\Debug\netcoreapp2.2\StackTool.dll
+C:\Users\thoule\source\repos\StackTool\StackTool\obj\Debug\netcoreapp2.2\StackTool.pdb
